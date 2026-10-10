@@ -1,0 +1,74 @@
+# ============================================================
+# Unreal Engine - Generated / Build / Temporary files
+# ============================================================
+
+# Unreal Engine tarafindan otomatik olusturulan dizinler
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Visual Studio / Rider kullanici dosyalari ve cozum yapilari
+.vs/
+.vsconfig
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.opendb
+*.VC.db
+*.user
+*.userprefs
+
+# Derlenmis Object dosyalari
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Derlenmis Dynamic kutuphaneler
+*.so
+*.dylib
+*.dll
+
+# Fortran module dosyalari
+*.mod
+
+# Derlenmis Static kutuphaneler
+*.lai
+*.la
+*.a
+*.lib
+
+# Calistirilabilir dosyalar
+*.exe
+*.out
+*.app
+
+# Debug / sembol dosyalari
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+
+# Log ve gecici dosyalar
+*.log
+*.tmp
+*.bak
+*~
+
+# Isletim sistemi dosyalari
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
